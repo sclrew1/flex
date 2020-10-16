@@ -1,0 +1,13 @@
+
+body{
+    margin: 0;
+}
+#a1{
+    height: 400px;
+    background-color: blueviolet;
+    display: flex;    
+}
+
+#z1 { flex-grow: 1;  background-color: brown; }
+#z2 { flex-grow: 3; background-color: cornflowerblue; }
+#z3 { flex-grow: 3; background-color: darkgreen; }
